@@ -3,198 +3,30 @@
         {
             "activate_vpn": "true",
             "activate_force_vpn": "true",
-            "vpn_path": "https://URL-VPN",
+            "vpn_path": "https://vpn-url",
             "vpn_user": "freeopenvpn",
-            "vpn_password": "**********",
+            "vpn_password": "********",
             "int_interval": 5,
             "activate_ads": "false",
-            "activate_steps": "false",
-            "activate_step_email": "false",
-            "one_signal": "ID_ADMOB",
+            "one_signal": "admob_id",
             "network": "admob",
-            "am_ban": "/6499/example/banner",
-            "am_int": "/6499/example/interstitial",
-            "am_native": "/6499/example/native",
-            "admob_ban": "*******************",
-            "admob_native": "*********************",
-            "admob_int": "******************",
-            "yandex_ban": "*****************",
-            "yandex_native": "************",
-            "yandex_int": "***************",
-            "max_ban": "*****************",
-            "max_native": "***************",
-            "max_int": "*********************",
-            "fan_ban": "***********************",
-            "fan_native": "*****************",
-            "fan_int": "*******************",
-            "iron_source_key": "****************",
-            "main_ico": "https://ICON-LOGO.com.png",
+            "admob_ban": ["1","2","3","4","5","6","7","8","9","10"],
+            "admob_int": ["1","2","3","4","5","6","7","8","9","10"],
+            "admob_rewarded": ["1","2","3","4","5","6","7","8","9","10"],
+            "admob_native": "********",
+            "yandex_ban": "********",
+            "yandex_native": "********",
+            "yandex_int": "********",
+            "max_ban": "********",
+            "max_native": "********",
+            "max_int": "********",
+            "fan_ban": "********",
+            "fan_native": "********",
+            "fan_int": "********",
+            "iron_source_key": "********",
+            "main_ico": "https://logo-icon.com.png",
             "activate_update_app": "false",
-            "update_link": "*************************"
-        }
-    ],
-    "app-questions": [
-        {
-            "questions": [
-                {
-                    "question": "q1"
-                },
-                {
-                    "question": "q2"
-                },
-                {
-                    "question": "q3"
-                }
-            ],
-            "answers": [
-                {
-                    "answer": "a1"
-                },
-                {
-                    "answer": "a2"
-                },
-                {
-                    "answer": "a3"
-                }
-            ],
-            "options": [
-                {
-                    "option": "a1"
-                },
-                {
-                    "option": "ax"
-                },
-                {
-                    "option": "ac"
-                },
-                {
-                    "option": "ad"
-                },
-                {
-                    "option": "iu"
-                },
-                {
-                    "option": "a2"
-                },
-                {
-                    "option": "po"
-                },
-                {
-                    "option": "gh"
-                },
-                {
-                    "option": "kp"
-                },
-                {
-                    "option": "lk"
-                },
-                {
-                    "option": "km"
-                },
-                {
-                    "option": "a3"
-                }
-            ]
-        }
-    ],
-    "app-images": [
-        {
-            "images": [
-                {
-                    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635"
-                },
-                {
-                    "image": "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif"
-                },
-                {
-                    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635"
-                },
-                {
-                    "image": "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif"
-                },
-                {
-                    "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png"
-                }
-            ],
-            "answers": [
-                {
-                    "answer": "true"
-                },
-                {
-                    "answer": "true"
-                },
-                {
-                    "answer": "true"
-                },
-                {
-                    "answer": "true"
-                },
-                {
-                    "answer": "true"
-                }
-            ],
-            "options": [
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                },
-                {
-                    "option": "true"
-                }
-            ]
+            "update_link": "********"
         }
     ]
 }
