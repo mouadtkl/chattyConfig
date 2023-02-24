@@ -1,5 +1,5 @@
 {
-    "config": [
+    "config": 
         {
             "activate_vpn": "true",
             "activate_force_vpn": "true",
@@ -28,5 +28,4 @@
             "activate_update_app": "false",
             "update_link": "********"
         }
-    ]
 }
